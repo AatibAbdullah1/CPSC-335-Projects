@@ -1,0 +1,5 @@
+﻿  disks_test.cpp
+c:\users\t pc\desktop\project-1-aarib-and-aatib-abdullah-cpsc-335-02-master\disks.hpp(102): warning C4018: '<': signed/unsigned mismatch
+c:\users\t pc\desktop\project-1-aarib-and-aatib-abdullah-cpsc-335-02-master\disks.hpp(125): warning C4018: '<': signed/unsigned mismatch
+c:\users\t pc\desktop\project-1-aarib-and-aatib-abdullah-cpsc-335-02-master\disks.hpp(128): warning C4018: '<': signed/unsigned mismatch
+  Project 1 CPSC 335.vcxproj -> C:\Users\T PC\Desktop\CPSC 335 - Algorithm Engineering\Projects\Project 1 CPSC 335\Debug\Project 1 CPSC 335.exe
